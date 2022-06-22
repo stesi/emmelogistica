@@ -12,3 +12,8 @@
 	path = stesi/gles_mobile
 	url = git@github.com:stesi/gles_mobile.git
 	branch = 14.0
+
+[submodule "ingegniamo/emmelogistica_custom"]
+	path = ingegniamo/emmelogistica_custom
+	url = git@github.com:ingegniamo/emmelogistica_custom.git
+	branch = 14.0
