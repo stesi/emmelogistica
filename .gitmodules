@@ -32,3 +32,13 @@
 	path = OCA/stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_put_in_exp_pack"]
+	path = ingegniamo/stock_put_in_exp_pack
+	url = git@github.com:ingegniamo/stock_put_in_exp_pack.git
+	branch = 14.0
+
+[submodule "ingegniamo/stock_gles_is_mdr"]
+	path = ingegniamo/stock_gles_is_mdr
+	url = git@github.com:ingegniamo/stock_gles_is_mdr.git
+	branch = 14.0
