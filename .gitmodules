@@ -42,3 +42,8 @@
 	path = ingegniamo/stock_gles_is_mdr
 	url = git@github.com:ingegniamo/stock_gles_is_mdr.git
 	branch = 14.0
+
+[submodule "ingegniamo/stesi_stock_product_default_owner_id"]
+	path = ingegniamo/stesi_stock_product_default_owner_id
+	url = git@github.com:ingegniamo/stesi_stock_product_default_owner_id.git
+	branch = 14.0
