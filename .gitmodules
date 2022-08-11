@@ -47,3 +47,8 @@
 	path = ingegniamo/stesi_stock_product_default_owner_id
 	url = git@github.com:ingegniamo/stesi_stock_product_default_owner_id.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_picking_res_partner_filter"]
+	path = ingegniamo/stock_picking_res_partner_filter
+	url = git@github.com:ingegniamo/stock_picking_res_partner_filter.git
+	branch = 14.0
